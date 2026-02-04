@@ -4178,3 +4178,9 @@ sources:
     files:
       README.md:
         index: true
+  omkar-foss/awesome-animal-care:
+    category: Health and Social Science
+    default_branch: main
+    files:
+      README.md:
+        index: true
